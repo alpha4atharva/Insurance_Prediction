@@ -1,4 +1,3 @@
-readme_content = """
 # Insurance Charges Prediction
 
 This project aims to predict medical insurance charges based on personal attributes using various regression models. The dataset contains insurance customer data including age, sex, BMI, number of children, smoking status, and region.
